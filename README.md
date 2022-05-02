@@ -1,4 +1,4 @@
-# Esp32 Rest API
+# Esp32 API Rest
 
 Basic example of an ESP32 API server using PlatformIO
 
